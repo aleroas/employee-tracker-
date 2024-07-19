@@ -24,6 +24,11 @@ The Employee Tracker is a command-line application that allows you to manage an 
    ```sh
    git clone https://github.com/aleroas/employee-tracker.git
    cd employee-tracker
+
+## Video screenshoot:
+![Screen Shot 2024-07-18 at 8 38 47 PM](https://github.com/user-attachments/assets/bac131f6-eead-41ad-b638-a665ad2b1741)
+
+
 ## Install dependencies:
 npm install
 
