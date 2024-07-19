@@ -27,6 +27,7 @@ The Employee Tracker is a command-line application that allows you to manage an 
 
 ## Video screenshoot:
 ![Screen Shot 2024-07-18 at 8 38 47 PM](https://github.com/user-attachments/assets/bac131f6-eead-41ad-b638-a665ad2b1741)
+[Screen Recording 2024-07-18 at 8.40.52 PM.zip](https://github.com/user-attachments/files/16300514/Screen.Recording.2024-07-18.at.8.40.52.PM.zip)
 
 
 ## Install dependencies:
